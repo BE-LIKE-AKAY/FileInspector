@@ -13,12 +13,16 @@ FileInspector is a powerful metadata extraction tool designed to delve into the 
 
 To install FileInspector, simply clone this repository and ensure you have the necessary dependencies installed.
 
-## Usage
 
-./fileinspector.sh <filename>
 
 ```bash
 git clone https://github.com/yourusername/fileinspector.git
 cd fileinspector
+```
+
+## Usage
+```bash
+./fileinspector.sh <filename>
+
 
 
