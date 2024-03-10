@@ -1,2 +1,18 @@
 # FileInspector
-A versatile metadata extraction tool for files of various formats, providing insights into images, audio, video, and more. MetaSleuth empowers users to explore the hidden details within their files, from GPS locations in images to audio codecs in music files.
+
+FileInspector is a powerful metadata extraction tool designed to delve into the hidden details of files. Whether you're working with images, audio, video, or other file formats, FileInspector provides comprehensive insights into the metadata contained within.
+
+## Features
+
+- Extracts metadata from images, audio, video, and other file types
+- Provides detailed information such as GPS locations, audio codecs, and more
+- User-friendly command-line interface
+- Customizable and extensible for specific use cases
+
+## Installation
+
+To install FileInspector, simply clone this repository and ensure you have the necessary dependencies installed.
+
+```bash
+git clone https://github.com/yourusername/fileinspector.git
+cd fileinspector
